@@ -1,0 +1,67 @@
+﻿body {
+    background-color: red;
+}
+
+h1 {
+    color: white;
+    font-size: 78px;
+    margin: 20px;
+    text-align: center;
+}
+
+#board {
+    background-color: white;
+    border: 25px solid peru;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boardTile {
+    cursor: pointer;
+    background-color: burlywood;
+    font-weight: bold;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border: 3px solid chocolate;
+    font-family: monospace;
+}
+
+#rack {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rackLetter {
+    background-color: burlywood;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 5px;
+    padding: 10px 20px;
+}
+    #blankTile {
+        color: burlywood;
+    }
+
+#submitWord {
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+}
+
+    #submitWord:hover {
+        background-color: maroon;
+        border-color: darkgrey;
+    }

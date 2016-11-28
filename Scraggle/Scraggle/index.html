@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="scraggleApp">
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="scripts/angular.min.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+
+<body ng-controller="ScrabbleCtrl">
+
+    <h1>SCRAGGLE</h1>
+
+    <table id="board">
+        <tr ng-repeat="row in ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O']" id={{row}}>
+            <th ng-repeat="col in range(1,15)" id={{col}}><button class="boardTile" id={{row}}{{col}} ng-click="selectBoardTile(row, col)"></button></th>
+        </tr>
+    </table>
+
+    <span id="rack" ng-repeat="letter in rackLetters track by $index">
+        <span ng-if="letter == '.'">
+            <button class="rackLetter" id="blankTile" ng-click="selectLetterFromRack(letter)">{{letter}}</button>
+        </span>
+        <span ng-if="letter != '.'">
+            <button class="rackLetter" ng-click="selectLetterFromRack(letter)">{{letter}}</button>
+        </span>
+    </span>
+
+
+    <button id="submitWord" ng-click="submitWord()">submit word</button>
+
+</body>
+
+</html>

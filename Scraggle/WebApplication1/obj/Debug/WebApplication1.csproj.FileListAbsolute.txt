@@ -1,0 +1,99 @@
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\fitz\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\fitzbox\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,74 @@
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\obj\Debug\Scraggle.csprojResolveAssemblyReference.cache
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\ScraggleGame.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\ScraggleGame.pdb
+\\10.0.0.11\media\UNSORTED\transfer\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\ApplicationInsights.config
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\csc.exe
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\WebApplication1.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\WebApplication1.pdb
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\ScraggleGame.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\System.Web.Http.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\ScraggleGame.pdb
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\bin\System.Web.Http.xml
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\obj\Debug\Scraggle.csprojResolveAssemblyReference.cache
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\WebApplication1\obj\Debug\WebApplication1.pdb

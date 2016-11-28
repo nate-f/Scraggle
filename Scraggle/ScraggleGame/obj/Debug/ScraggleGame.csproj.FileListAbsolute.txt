@@ -1,0 +1,15 @@
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\WebApplication1\ScraggleGame\obj\Debug\ScraggleGame.csprojResolveAssemblyReference.cache
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\WebApplication1\ScraggleGame\bin\Debug\ScraggleGame.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\WebApplication1\ScraggleGame\bin\Debug\ScraggleGame.pdb
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\WebApplication1\ScraggleGame\obj\Debug\ScraggleGame.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\WebApplication1\ScraggleGame\obj\Debug\ScraggleGame.pdb
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\ScraggleGame\bin\Debug\ScraggleGame.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\ScraggleGame\bin\Debug\ScraggleGame.pdb
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.csprojResolveAssemblyReference.cache
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.dll
+C:\Users\fitz\Documents\Visual Studio 2015\Projects\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.pdb
+C:\Users\fitz\Desktop\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.csprojResolveAssemblyReference.cache
+C:\Users\fitz\Desktop\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.dll
+C:\Users\fitz\Desktop\Scraggle\ScraggleGame\obj\Debug\ScraggleGame.pdb
+C:\Users\fitz\Desktop\Scraggle\ScraggleGame\bin\Debug\ScraggleGame.dll
+C:\Users\fitz\Desktop\Scraggle\ScraggleGame\bin\Debug\ScraggleGame.pdb

@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="scraggleApp">
+<head>
+    <script src="scripts/angular.min.js"></script>
+    <script>
+        var scraggleApp = angular.module('scraggleApp', []);
+
+        scraggleApp.controller('ScraggleCtrl',
+            function($scope) {
+
+                $scope.range = function(min, max, step) {
+                    step = step || 1;
+                    var rangeArr = [];
+                    if (typeof min === 'number' && typeof max == 'number') {
+                        for (var i = min; i <= max; i += step) {
+                            rangeArr.push(i);
+                        }
+                    } else if (typeof min === 'string' && typeof max == 'string') {
+                        for (var i = 1; i <= 15; i += step) {
+                            rangeArr.push("A");
+                            console.log("rangeArr = " + rangeArr)
+                        }
+                    }
+
+                    return rangeArr;
+                };
+
+                $scope.selectLetter = function(letter) {
+                    $scope.selectedLetter = letter;
+                };
+
+                $scope.submitWord = function() {
+                    //TODO: ask c# to grab random letter
+                    angular.forEach($scope.activeBoardTiles,
+                        function(boardTile) {
+                            document.getElementById(boardTile).style.backgroundColor = 'lemonchiffon'
+                        });
+                    setTimeout($scope.successfulWord, 5000);
+                    console.log("timeout")
+                };
+
+                $scope.successfulWord = function() {
+                    console.log("entered sucessfulWord")
+                    angular.forEach($scope.activeBoardTiles,
+                        function(boardTile) {
+                            document.getElementById(boardTile).style.backgroundColor = 'burlywood'
+                        });
+                }
+
+                $scope.selectBoardTile = function(row, col) {
+                    var id = row + col
+                    //if user has selected a letter and chosen tile is empty
+                    if ($scope.selectedLetter && document.getElementById(id).innerHTML === "") {
+                        document.getElementById(id).innerHTML = $scope.selectedLetter;
+                        $scope.activeBoardTiles.push(row + col)
+                        $scope.removeFromLetters($scope.selectedLetter);
+                        $scope.selectedLetter = "";
+                    }
+                    //if user has selected a letter and chosen tile is not empty
+                    else if ($scope.selectedLetter && document.getElementById(id).innerHTML != "") {
+                        var replace = document.getElementById(id).innerHTML;
+                        document.getElementById(id).innerHTML = $scope.selectedLetter;
+                        $scope.removeFromLetters($scope.selectedLetter);
+                        $scope.addToLetters(replace);
+                        $scope.selectedLetter = "";
+                    }
+                    //if user has not selected a letter and chosen tile is not empty
+                    else if ($scope.selectedLetter === "" && document.getElementById(id).innerHTML != "") {
+                        var remove = document.getElementById(id).innerHTML;
+                        document.getElementById(id).innerHTML = "";
+                        $scope.addToLetters(remove);
+                        $scope.removeFromActiveBoardTiles(id);
+                    }
+                };
+
+                $scope.removeFromLetters = function(letter) {
+                    if (letter) {
+                        var i = $scope.letters.indexOf(letter);
+                        $scope.letters.splice(i, 1);
+                    }
+                };
+
+                $scope.addToLetters = function(letter) {
+                    $scope.letters.push(letter);
+                };
+
+                $scope.removeFromActiveBoardTiles = function(boardTile) {
+                    if (boardTile) {
+                        var i = $scope.activeBoardTiles.indexOf(boardTile);
+                        $scope.activeBoardTiles.splice(i, 1);
+                    }
+                };
+
+                $scope.initializeLetters = function() {
+                    return ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
+                };
+
+                $scope.selectedLetter = "";
+                $scope.letters = $scope.initializeLetters();
+                $scope.activeBoardTiles = [];
+            });
+    </script>
+</head>
+
+<body ng-controller="ScraggleCtrl" style="">
+
+    <h1>SCRAGGLE</h1>
+
+    <span style="margin-left: 100px;">
+        <div style="display: inline-block;">
+            <span style="background-color: chocolate margin:20px;">
+                <table style="">
+                    <tr ng-repeat="row in ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O']" id={{row}}>
+                        <th ng-repeat="col in range(1,15)" id={{col}}><button class="boardTile" id={{row}}{{col}} ng-click="selectBoardTile(row, col)"></button></th>
+                    </tr>
+                </table>
+            </span>
+        </div>
+        <div>
+            <span style="float: left;" ng-repeat="letter in letters">
+                <button id="myLetter" ng-click="selectLetter(letter)">{{letter}}</button>
+            </span>
+        </div>
+
+
+        <button id="submitWord" ng-click="submitWord()">submit word</button>
+    </span>
+</body>
+
+</html>

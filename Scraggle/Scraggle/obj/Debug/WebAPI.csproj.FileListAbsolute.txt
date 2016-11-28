@@ -1,0 +1,94 @@
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\csc.exe
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\csc.exe.config
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\csc.rsp
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\csi.exe
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\csi.rsp
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.AppContext.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.Collections.Immutable.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.IO.FileSystem.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\vbc.exe
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\vbc.exe.config
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\vbc.rsp
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\VBCSCompiler.exe
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\roslyn\VBCSCompiler.exe.config
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Scraggle.dll.config
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Scraggle.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Scraggle.pdb
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Antlr3.Runtime.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Microsoft.Web.Infrastructure.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Newtonsoft.Json.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\ScraggleGame.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Net.Http.Formatting.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Web.Http.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Web.Http.WebHost.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\ScraggleGame.pdb
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Antlr3.Runtime.pdb
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\Newtonsoft.Json.xml
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Net.Http.Formatting.xml
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Web.Http.xml
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\bin\System.Web.Http.WebHost.xml
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\obj\Debug\Scraggle.dll
+c:\users\fitz\documents\visual studio 2015\Projects\Scraggle\Scraggle\obj\Debug\Scraggle.pdb
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\csc.exe
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\csc.exe.config
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\csc.rsp
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\csi.exe
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\csi.rsp
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.AppContext.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\vbc.exe
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\vbc.exe.config
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\vbc.rsp
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\VBCSCompiler.exe
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Scraggle.dll.config
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Scraggle.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Scraggle.pdb
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Antlr3.Runtime.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Newtonsoft.Json.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\ScraggleGame.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Net.Http.Formatting.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Web.Http.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Web.Http.WebHost.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\ScraggleGame.pdb
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Antlr3.Runtime.pdb
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\Newtonsoft.Json.xml
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Net.Http.Formatting.xml
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Web.Http.xml
+C:\Users\fitz\Desktop\Scraggle\Scraggle\bin\System.Web.Http.WebHost.xml
+C:\Users\fitz\Desktop\Scraggle\Scraggle\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\fitz\Desktop\Scraggle\Scraggle\obj\Debug\Scraggle.dll
+C:\Users\fitz\Desktop\Scraggle\Scraggle\obj\Debug\Scraggle.pdb
